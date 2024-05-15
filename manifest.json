@@ -1,6 +1,6 @@
 {
   "vendor": "credito",
-  "name": "store-theme",
+  "name": "store-theme-c",
   "version": "0.0.2",
   "builders": {
     "styles": "2.x",
